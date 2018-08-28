@@ -3,15 +3,13 @@
 ## Contents
 
 [Disclaimer](#disclaimer)  
-[About]()  
+[About](#about)  
 [Code Explanation]()  
-[Conclusion]()  
-[References]()  
-
-## Disclaimer
+[Conclusion](#conclusion)  
+[References](#references)  
 
 ## About  
-This project aims to implement blockchain in python programming langauage.
+This project aims to implement the blockchain technology in python programming langauage. This project is not specific to any particular domain. It's just a general purpose blockchain. 
 
 ## Code Explanation
 

@@ -17,3 +17,5 @@ This project aims to implement the blockchain technology in python programming l
 
 ## References
 
+* <http://flask.pocoo.org/docs/1.0/quickstart/>
+* <https://medium.com/swlh/how-does-bitcoin-blockchain-mining-work-36db1c5cb55d>

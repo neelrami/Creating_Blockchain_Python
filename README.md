@@ -1,8 +1,7 @@
 # Creating_Blockchain_Python
 
 ## Contents
-
-[Disclaimer](#disclaimer)  
+  
 [About](#about)  
 [Code Explanation]()  
 [Conclusion](#conclusion)  

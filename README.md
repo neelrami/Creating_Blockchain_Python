@@ -4,7 +4,7 @@
   
 [About](#about)  
 [Code Explanation]()  
-[Imp Points to Note](#Imp Points to Note)  
+[Imp Points to Note](#ImpPointstoNote)  
 [References](#references)  
 
 ## About  

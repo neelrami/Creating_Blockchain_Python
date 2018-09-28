@@ -10,7 +10,7 @@
 ## About  
 This project aims to implement the blockchain technology in python programming language. This project is not specific to any particular domain. It's just a general purpose blockchain. 
 
-## Code Explanation
+## Code_Explanation
 Comments have been added in the code and also if a little time is spent on reading the code, then it's pretty easy to understand the code as well.
 
 ## Imp

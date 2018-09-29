@@ -4,7 +4,7 @@
   
 [About](#about)  
 [Code Explanation](#code-Explanation)  
-[Imp Points to Note](#imp)  
+[Note](#note)  
 [References](#references)  
 
 ## About  
@@ -13,8 +13,9 @@ This project aims to implement the blockchain technology in python programming l
 ## Code-Explanation
 Comments have been added in the code and also if a little time is spent on reading the code, then it's pretty easy to understand the code as well.
 
-## Imp
+## Note
 
+1. The video and the screenshots were taken at different times so the screenshot output and video output are diiferent,
 
 ## References
 
